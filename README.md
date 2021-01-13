@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Screenshot]( /Flutter-cash-app-UI/Assets/Screenshot.png )
+![Screenshot]( /Assets/Screenshot.png )
 
 ## Getting Started
 
