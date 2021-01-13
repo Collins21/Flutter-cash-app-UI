@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Screenshot]( /Flutter-cash-app-UI/Assets/Screenshot.png )
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
