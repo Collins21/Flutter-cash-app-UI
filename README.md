@@ -1,4 +1,4 @@
-# Cash_App
+# Flutter Cash App
 
 A new Flutter project.
 
